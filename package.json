@@ -1,0 +1,30 @@
+{
+  "name": "backside-userpass-auth",
+  "version": "0.0.0",
+  "description": "User/Password auth module for backside, with tokens",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/backside/backside-userpass-auth.git"
+  },
+  "keywords": [
+    "backside",
+    "backside-auth"
+  ],
+  "author": "addisonj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/backside/backside-userpass-auth/issues"
+  },
+  "dependencies": {
+    "backside-utils": "0.0.0",
+    "jsonwebtoken": "~0.4.0",
+    "bcrypt": "~0.7.8"
+  },
+  "devDependencies": {
+    "chai": "~1.9.1"
+  }
+}
