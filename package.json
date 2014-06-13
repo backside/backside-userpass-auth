@@ -1,6 +1,6 @@
 {
   "name": "backside-userpass-auth",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "User/Password auth module for backside, with tokens",
   "main": "index.js",
   "scripts": {
@@ -20,7 +20,7 @@
     "url": "https://github.com/backside/backside-userpass-auth/issues"
   },
   "dependencies": {
-    "backside-utils": "0.0.0",
+    "backside-utils": "0.0.*",
     "jsonwebtoken": "~0.4.0",
     "bcrypt": "~0.7.8"
   },
