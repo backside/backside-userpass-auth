@@ -1,6 +1,6 @@
 {
   "name": "backside-userpass-auth",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "User/Password auth module for backside, with tokens",
   "main": "index.js",
   "scripts": {
