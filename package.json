@@ -15,6 +15,9 @@
     "backside-auth"
   ],
   "author": "addisonj",
+  "contributors": [
+    "Trevor Dixon"
+  ],
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/backside/backside-userpass-auth/issues"
